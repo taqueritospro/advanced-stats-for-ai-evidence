@@ -1,0 +1,8 @@
+# Python dependencies
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+
+# Datasets
+data/
+
